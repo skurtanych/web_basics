@@ -1,59 +1,16 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #e6f2ff;      
-  color: #003366;               
-  margin: 0;
-  padding: 0;
+  background-color: #f7f7f7;
+  color: #0033cc; 
 }
-
 h1 {
-  color: #0057b7;              
-  background-color: #ffd700;     
-  padding: 15px;
-  margin: 0;
+  color: #0033cc; 
+  background-color: #ffd700; 
 }
-
 h2 {
-  color: #0057b7;
-  margin-top: 20px;
+  color: #0033cc; 
 }
 
 a {
-  color: #0057b7;               
-  font-weight: bold;
-  margin: 0 10px;
+  color: #0033cc; 
 }
 
-a:hover {
-  color: #ffd700;              
-}
-
-.btn {
-  background-color: #0057b7;    
-  color: white;
-  border: none;
-  padding: 10px 18px;
-  margin-top: 15px;
-  cursor: pointer;
-  border-radius: 6px;
-  font-size: 16px;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-.btn:hover {
-  background-color: #ffd700;     
-  color: #0057b7;               
-  transform: scale(1.05);
-}
-
-/* іконка буд */
-a img {
-  transition: transform 0.3s ease, border-color 0.3s ease;
-  border: 2px solid transparent;
-  border-radius: 6px;
-}
-
-a img:hover {
-  transform: scale(1.2);
-  border-color: #ffd700;        
-}
